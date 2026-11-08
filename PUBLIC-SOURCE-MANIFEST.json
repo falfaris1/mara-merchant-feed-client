@@ -1,0 +1,59 @@
+{
+  "version": "0.5.0",
+  "manifestSha256": "a92d2c66a8cbab268499be841fa4bccf7485cd8df94cf8224bebbc9e71eaba09",
+  "fileCount": 10,
+  "origin": "https://mara-x402-csv-api-production.up.railway.app/client/feed-client.json",
+  "files": [
+    {
+      "path": "package.json",
+      "bytes": 332,
+      "sha256": "eba6822a80f104bc97ddec233647c707d24de4be7541a10e4e356e5cb9d3a080"
+    },
+    {
+      "path": "scripts/parts-client.mjs",
+      "bytes": 15328,
+      "sha256": "2e130844dab4e7840f42780bda4519455305ed1926ff1f4a1f9aca5af12ddb59"
+    },
+    {
+      "path": "src/csv-clean.mjs",
+      "bytes": 11704,
+      "sha256": "72d63a7265f2960702c16f6ee668a9097642399718cd3227ffa3611ef3a4c2e4"
+    },
+    {
+      "path": "src/csv-format.mjs",
+      "bytes": 2913,
+      "sha256": "62e9e68d97559eb46a1e89671fe8e5e34850536d821725a3a21f22732ecaab4e"
+    },
+    {
+      "path": "src/errors.mjs",
+      "bytes": 149,
+      "sha256": "7e7fa3d5b2581decee929fac6e66726fbfc0d99ca6c8da181298693b28b14905"
+    },
+    {
+      "path": "src/feed-input.mjs",
+      "bytes": 4981,
+      "sha256": "0e1c73eb0ef055c53414f9be5e9835ae0bc2a068d3fa853a516d8505176dc6fc"
+    },
+    {
+      "path": "src/feed-spec.mjs",
+      "bytes": 6678,
+      "sha256": "5f7403599c433fe201d2e1ba249801891c9381d9da325e7af114f72cc09e36d7"
+    },
+    {
+      "path": "src/input.mjs",
+      "bytes": 4637,
+      "sha256": "ed8c3de4ae6c88e84cdd8af9bebd120382e07f0a804dd16def48bbb9b44d24a1"
+    },
+    {
+      "path": "src/operations.mjs",
+      "bytes": 6858,
+      "sha256": "d500b0c3b722a29ab415a9cd8987cadf2713f4a4848abde7c67c653e8fd41bdf"
+    },
+    {
+      "path": "src/purchase.mjs",
+      "bytes": 11015,
+      "sha256": "84dffc875c8c968a450374e02544e7b795beb0cb330573c74f6ced24b13f5757"
+    }
+  ],
+  "lockfile": "Additional full npm lockfile, original dependency graph; only root package metadata differs from server lockfile."
+}
